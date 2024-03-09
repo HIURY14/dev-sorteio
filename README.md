@@ -8,3 +8,7 @@ tecnologias usadas:
 
 HTML, CSS, JAVASCRIPT.
 </h2>
+<br>
+
+<img src="![image](https://github.com/HIURY14/dev-sorteio/assets/136655121/3ece6870-36dd-48d1-ac03-e46b2e76cbd4)
+">
